@@ -1,0 +1,15 @@
+{
+  "name": "phase15",
+  "version": "1.0.0",
+  "description": "Commandline runtime for web experiments",
+  "main": "index.js",
+  "bin": {
+    "phase15": "./index.js"
+  },
+  "author": "Timo Zoeller <timo@pixelkritzel.de>",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "fs-extra": "^0.26.3"
+  }
+}
