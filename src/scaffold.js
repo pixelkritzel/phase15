@@ -17,4 +17,4 @@ const scaffold = function scaffold(targetDirectory) {
   })
 }
 
-exports.scaffold = scaffold;
+module.exports = scaffold;

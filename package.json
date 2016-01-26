@@ -9,7 +9,9 @@
   "author": "Timo Zoeller <timo@pixelkritzel.de>",
   "license": "MIT",
   "dependencies": {
+    "chokidar": "^1.4.1",
     "commander": "^2.9.0",
+    "express": "^4.13.3",
     "fs-extra": "^0.26.3"
   }
 }
