@@ -31,7 +31,7 @@ if (options.command === 'build') {
 }
 
 if (options.command === 'server') {
-  build(options.target);
+  build(options.target, true);
   server(options);
   watch(options);
 }
